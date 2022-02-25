@@ -11,7 +11,7 @@
 
 项目演示:
 
-![image](https://github.com/77796E/personalRepository/demo.gif)
+![image](https://github.com/77796E/personalRepository/blob/master/demo.gif)
 
 其他闲话:
 1. 从0开始的第一个Swift项目, 做了大概一周
